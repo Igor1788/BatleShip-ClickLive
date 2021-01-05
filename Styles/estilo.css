@@ -1,5 +1,9 @@
+body{
+    background-color: green;
+}
 main {
-    background-image: url(../Assets/desktop-batalha.png);
+    /* background-image: url(../Assets/desktop-batalha.png); */
+    
     background-size: cover;
     background-position-x: center;
     margin: auto;
